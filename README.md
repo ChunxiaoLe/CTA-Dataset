@@ -3,22 +3,23 @@
 * Affiliation: School of Computer Science (National Pilot Software Engineering School), Beijing University of Posts and Telecommunications
 
 
-This paper is proposed to build a large-scale dataset and a Temporal Automatic White Balance (TAWB) method called CTANet to maintain the temporal stability of the estimated illumination.
+This paper is proposed to build a large-scale dataset and a Temporal Automatic White Balance (TAWB) method called CTANet to maintain the temporal stability of the estimated illumination.
 
 # CTA Dataset
 <p align="center">
-  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example%20images/dataset.png" alt="Illustration of our CTANet" width="90%">
+  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example images/dataset.png" alt="Illustration of our CTANet" width="90%">
 </p>
+
 Dataset is available: [Data](https://drive.google.com/drive/folders/1kgmi_aasEOMG0G9cTJ8B1UpBAwBnbhqD?usp=share_link)
 
 # Framework
 <p align="center">
-  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example%20images/net.png" alt="Illustration of our CTANet" width="90%">
+  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example images/net.png" alt="Illustration of our CTANet" width="90%">
 </p>
 
 # Results presentation
 <p align="center">
-  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example%20images/visualization.png" alt="Visualization of CTANet width="89%">
+  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example images/visualization.png" alt="Visualization of CTANet width="90%">
 </p>
 
 
