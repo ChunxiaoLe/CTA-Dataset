@@ -7,19 +7,19 @@ This paper is proposed to build a large-scale dataset and a Temporal Automatic W
 
 # CTA Dataset
 <p align="center">
-  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example images/dataset.png" width="90%">
+  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/blob/main/example%20images/dataset.png?raw=true" width="90%">
 </p>
 
 Dataset is available: [Mate30](https://drive.google.com/drive/folders/1Z4fS29-1YcwBi1I5C7h3TuvKUR29m-De?usp=share_link)、[Vivo](https://drive.google.com/drive/folders/1PyOOorn-aH--rAecKsiYW4hgp6ETiRRW?usp=share_link)
 
 # Framework
 <p align="center">
-  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example images/net.png" width="90%">
+  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/blob/main/example%20images/net.png?raw=true" width="90%">
 </p>
 
 # Results presentation
 <p align="center">
-  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/tree/main/example images/visualization.png" width="90%">
+  <img src="https://github.com/ChunxiaoLe/CTA-Dataset/blob/main/example%20images/visualization.png?raw=true" width="90%">
 </p>
 
 
